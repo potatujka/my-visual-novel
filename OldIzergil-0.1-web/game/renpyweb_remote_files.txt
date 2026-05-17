@@ -1,0 +1,140 @@
+audio/Ocean of Old Stories 2.mp3
+music -
+audio/Ocean of Old Stories.mp3
+music -
+audio/гром.mp3
+music -
+audio/клёкот орла.mp3
+music -
+audio/музька.mp3
+music -
+audio/океан.mp3
+music -
+audio/последняя.mp3
+music -
+audio/старуха.mp3
+music -
+images/sprites/elder/старейшина.png
+image 640,1180
+images/sprites/iz/Изергиль.png
+image 960,1280
+images/sprites/larra/ларра.png
+image 921,1016
+images/sprites/larra/ларра2.png
+image 714,1280
+images/sprites/mother/мать.png
+image 713,1280
+images/аркадэк.jpg
+image 2000,1100
+images/аркадяк.jpg
+image 2000,1100
+images/бегит.jpg
+image 2000,1100
+images/болгарка.jpg
+image 2000,1100
+images/боль.png
+image 1950,1300
+images/бросила.jpg
+image 2000,1100
+images/бросились.png
+image 1930,1148
+images/бырлад.png
+image 2688,1536
+images/веселые.png
+image 2000,1100
+images/виноград.jpg
+image 2000,1100
+images/виноградник.jpg
+image 1376,768
+images/гарем.jpg
+image 2560,1462
+images/гуцул.jpg
+image 2000,1100
+images/гуцул2.jpg
+image 2000,1100
+images/гуцулы.png
+image 2688,1536
+images/жид.jpg
+image 2200,1080
+images/казнь.png
+image 2000,1100
+images/камень.png
+image 1950,1200
+images/колено.jpg
+image 2000,1100
+images/коней.jpg
+image 2000,1100
+images/конец.jpg
+image 1930,1280
+images/краков.jpg
+image 2560,1462
+images/лицо.jpg
+image 2000,1100
+images/лодка.jpg
+image 2000,1100
+images/луг.jpg
+image 2000,1100
+images/мальчик.jpg
+image 2000,1100
+images/матушка.png
+image 1920,1200
+images/монастырь.jpg
+image 2000,1100
+images/начало.jpg
+image 2000,1100
+images/нищая.jpg
+image 2560,1440
+images/олачан.jpg
+image 2000,1100
+images/орj.png
+image 2300,1200
+images/оттолкнула.jpg
+image 2000,1400
+images/печенье.jpg
+image 2000,1100
+images/пинок.jpg
+image 2000,1100
+images/племяит.png
+image 2100,1100
+images/плен.jpg
+image 2000,1100
+images/полячок.jpg
+image 2000,1100
+images/прогнала.jpg
+image 2000,1100
+images/разговор со старейшиной.jpg
+image 1950,1100
+images/рыбак.jpg
+image 2000,1100
+images/рынок.jpg
+image 2000,1100
+images/смеются.png
+image 1980,1100
+images/сорок.jpg
+image 2000,1100
+images/старейшиныk.png
+image 2100,1100
+images/сын.jpg
+image 2000,1100
+images/тонет.jpg
+image 2560,1428
+images/турок.jpg
+image 2000,1100
+images/турок2.png
+image 2000,1100
+images/туча.jpg
+image 2560,1462
+images/умер.jpg
+image 2000,1100
+images/фон.png
+image 1344,768
+images/фон2.png
+image 2688,1536
+images/фон_море.png
+image 3328,1856
+images/фонитог.png
+image 2100,1300
+images/ценок.jpg
+image 2000,1100
+images/часовой.jpg
+image 2000,1100
